@@ -6,7 +6,7 @@
 
 ## Books
 
-1. [Autopoiesis and Cognition - The Realization of the Living](https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf)
+1. [Autopoiesis and Cognition - The Realization of the Living](https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf) by Humberto R. Maturana and Francisco J. Varela
 
 
 
